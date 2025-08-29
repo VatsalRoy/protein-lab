@@ -6,3 +6,5 @@ biotite
 numpy
 pandas
 plotly
+ipywidgets
+ipython_genutils
